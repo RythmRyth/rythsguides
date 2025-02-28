@@ -43,4 +43,4 @@ This repository is created for educational and entertainment purposes only. Cont
 
 **Stay tuned for updates!** Each guide will be improved over time to ensure you have the best strategies available. If you have any questions or suggestions, feel free to contribute!
 
-**Feel free to make a request for a new game (that's accessible for me) so i can guide you through it.
+**Feel free to make a request for a new game (that's accessible for me) so i can guide you through it.**
